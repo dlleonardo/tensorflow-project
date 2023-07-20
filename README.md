@@ -1,5 +1,5 @@
 # tensorflow-project
-Tensorflow project made during my Master in Data Analytics, the analysis is about the Titanic dataset on Kaggle.
+Tensorflow project made during the Master in Data Analytics, the analysis is about the Titanic dataset on Kaggle.
 
 Fot this project we are going to apply the Logistic Regression algorithm to predict if a passenger of the titanic will survive or not.
 
